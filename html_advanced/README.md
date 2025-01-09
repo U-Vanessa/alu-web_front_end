@@ -49,4 +49,4 @@ Here’s what I have achieved in this project:
 - My code is W3C compliant and validated using the [W3C-Validator](https://validator.w3.org/).
 - "Techium" is the name of the company I used across the webpages.
 
-### Author: Daniel IRYIVUZE
+### Author: Vanessa UWONKUNDA
